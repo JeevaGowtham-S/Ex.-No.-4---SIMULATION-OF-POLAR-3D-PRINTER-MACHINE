@@ -32,7 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Screenshot 2023-10-19 110819](https://github.com/JeevaGowtham-S/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118042624/a9283ae3-d10a-422e-90a0-b56712a71d0c)
+![273836002-1f79c8ea-0244-4e2c-944d-bd12e971bb22](https://github.com/JeevaGowtham-S/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118042624/7b47f5ed-78b7-46d5-8f06-2fd7d50c92e8)
+
 
 ### Name: JEEVAGOWTHAM S
 ### Register Number: 212222230053
